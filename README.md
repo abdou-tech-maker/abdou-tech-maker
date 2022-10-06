@@ -1,7 +1,9 @@
+[![MasterHead](https://quokkalabs.com/blog/wp-content/uploads/2021/12/cross-Platform-dev-1-1-1024x342.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Kihal Abderrahmane</h1>
-        <div id="header" align="center">
-          <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-          </div>
+    
+<img align="right" alt = "coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+         
 <h3 align="center">A passionate Flutter and JavaFX developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdou-tech-maker&label=Profile%20views&color=0e75b6&style=flat" alt="abdou-tech-maker" /> </p>
