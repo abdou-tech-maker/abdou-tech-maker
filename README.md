@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Khademni](https://github.com/abdou-tech-maker/Khademni)
 
-- 🌱 I’m currently learning **Flutter,ASP.Net**
+- 🌱 I’m currently learning **Flutter,ASP.Net,Python**
 
 - 💬 Ask me about **Flutter,JavaFx**
 
