@@ -1,7 +1,7 @@
 [![MasterHead](https://quokkalabs.com/blog/wp-content/uploads/2021/12/cross-Platform-dev-1-1-1024x342.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Kihal Abderrahmane</h1>
-<h3 align="center">A passionate Flutter and JavaFX developer from Algeria</h3>
+<h3 align="center">A passionate Flutter and NestJs developer from Algeria</h3>
     
 <img align="right" alt = "coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
          
