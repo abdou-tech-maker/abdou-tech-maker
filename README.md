@@ -15,7 +15,7 @@
 - 🔭 and also on [Weekly Planner](https://github.com/abdou-tech-maker/weekly-planner)
 
 
-- 🌱 I’m currently learning **Flutter,ASP.Net,Python**
+- 🌱 I’m currently learning **Flutter,NestJs,GCP**
 
 - 💬 Ask me about **Flutter,JavaFx**
 
